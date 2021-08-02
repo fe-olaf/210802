@@ -8,7 +8,7 @@ if (isHateZombie) {
     console.log('좀비를 싫어하지 않는 유저입니다.')
 }
 
-// 문제의 코드 !!
+// 문제의 코드 !! 
 let message 
 
 if (isHateZombie) {
