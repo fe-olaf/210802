@@ -59,3 +59,18 @@ $ git status
 ```
 $ git add . 
 ```
+
+#### git commit 
+commit 은 작업의 단위를 의미한다.       
+작게 쪼갤수록 좋다.
+
+```
+$ git commit -m "메세지"
+```
+
+#### git push
+commit 목록을 remote 서버에 반영 
+
+```
+$ git push origin "branch name"
+```
