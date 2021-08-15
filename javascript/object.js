@@ -51,3 +51,5 @@ const updatePerson2 = {
 }
 
 console.log('updatePerson2', updatePerson2)
+
+// 반복문
