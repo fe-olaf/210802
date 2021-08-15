@@ -13,6 +13,7 @@
     },
     "extends": [ // 기반이되는 룰 
       "eslint:recommended",
+      "plugin:prettier/recommended"
     ],
     "rules": { // 우리가 적는 룰 
       "no-console": "warn"
