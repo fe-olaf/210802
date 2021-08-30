@@ -9,7 +9,7 @@
     // 코드가 돌아가고있는 환경
     "env": {
       "browser": true,
-      "node": true,
+      "node": true
     },
     "extends": [ // 기반이되는 룰 
       "eslint:recommended",
